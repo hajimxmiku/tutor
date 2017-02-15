@@ -11,3 +11,4 @@ sudo sh -c 'echo "root soft nofile 64000" >> /etc/security/limits.conf'
 
 #info
 echo -e "\e[34m THIS HOPEFULLY WILL FIX SOME ISSUE"
+echo -e "###############################################################"
